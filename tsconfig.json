@@ -1,0 +1,12 @@
+{
+  "declarationFiles": true,
+  "sourceMap": true,
+  "target": "ES5",
+  "module": "amd",
+  "compilerOptions": {
+  },
+  "include": [
+    "./src/*",
+    "./test/*",
+  ],
+}
